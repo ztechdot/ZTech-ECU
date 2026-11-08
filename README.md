@@ -130,6 +130,9 @@ Connect TunerStudio/VETuner, **use the values from your project**, and burn them
 4. Set up the trigger wheel under **Base → Trigger / Crankshaft**
 5. Set the oil pump (ratio, oil per stroke, pump data) under **Fuel → Oil Pump (2-stroke)**
 
+- Link to TunerStudio www.tunerstudio.com
+- Link to VETuner https://vetuner.co.uk/
+
 ## Documentation
 
 Full documentation coming soon.
