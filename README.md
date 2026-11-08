@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="logo_light.png">
-    <img alt="Z TECH." src="logo_light.png" width="400">
+    <img alt="Z TECH." src="logo_light.png" width="200">
   </picture>
   <p>Open Source</p>
   <h2>Engine Control Unit</h2>
